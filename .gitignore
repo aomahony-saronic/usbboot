@@ -3,3 +3,8 @@ bin2c
 *.exe
 *.swp
 temp/
+result
+result/
+compile_commands.json
+rpiboot.dSYM/
+.cache/
